@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Jovin Finny
 
 **Unity XR Developer | VR/AR Specialist | Game Developer**
+<img width="2752" height="1536" alt="unnamed" src="https://github.com/user-attachments/assets/eefbc763-3be2-481e-8e6c-90e131e7316f" />
 
 📍 Chennai, India
 📧 [jovinfy@gmail.com](mailto:jovinfy@gmail.com)
