@@ -1,49 +1,57 @@
 # Hi, I'm Jovin 👋
 
-🎮 Unity Game Developer | VR Developer | Gameplay Programmer
+🎮 Unity Gameplay Programmer / Systems Developer
+🕶️ VR Developer
+📍 Chennai, India
 
-I’m a Unity developer with experience in:
-- 2D & 3D Game Development
-- VR Development
-- Slot Game Systems
-- Multiplayer Systems using Nakama
-- Clean Code Architecture & SOLID Principles
-- State Machines, Event Bus, Dependency Injection
-- UI/UX for Games
-- C# Programming
+Currently looking for opportunities as a Unity Gameplay Programmer / Systems Developer.
 
-## 🚀 Current Focus
-- Building polished portfolio games
-- Learning scalable game architecture
-- Multiplayer game systems
-- AWS & backend technologies
+I’m a Unity developer focused on gameplay programming, reusable systems, and interactive experiences using C# and Unity.
 
-## 🕹 Featured Projects
-### Slot Machine Game
-A polished slot game prototype with:
-- Reel animations
-- FSM-based architecture
-- Audio system
-- Modular game flow
-- Responsive UI
+I enjoy building gameplay mechanics, modular systems, and portfolio projects that improve my understanding of clean architecture and scalable game development workflows.
 
-### VR Warehouse Training
-A VR-based warehouse simulation built using Unity.
+## 🚀 Currently Working On
 
-### UNO-style Multiplayer Card Game
-Online multiplayer card game using Nakama backend.
+* Slot game systems in Unity
+* Gameplay architecture & clean code practices
+* Portfolio-quality game projects
+* Improving reusable and scalable gameplay systems
+* Strengthening problem solving & technical depth in Unity
 
-## 🛠 Tech Stack
-- Unity
-- C#
-- Git & GitHub
-- Nakama
-- Firebase
-- Blender (basic)
-- Visual Studio
+## 🧠 Areas of Interest
+
+* Gameplay Programming
+* Systems Design
+* UI Systems
+* VR Development
+* Performance Optimization
+* Game Architecture
+
+## 🛠️ Tech Stack
+
+### Game Development
+
+* Unity
+* C#
+* Scriptable Objects
+* DOTween
+
+### Tools
+
+* Git
+* GitHub
+* Visual Studio
+* Rider
+
+## 📌 Current Goal
+
+To work as a Unity Gameplay Programmer / Systems Developer and contribute to building polished, scalable, and engaging gameplay experiences.
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/Jovin7
+
+* GitHub: https://github.com/Jovin7
+* LinkedIn: https://www.linkedin.com/in/jovinfinny/
 
 ---
-⭐ Passionate about creating immersive and scalable game experiences.
+
+> “Always learning. Always building.”
