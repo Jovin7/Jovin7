@@ -1,127 +1,40 @@
 # Hi, I'm Jovin 👋
 
-## Unity XR & Gameplay Developer | OpenUSD | NVIDIA Omniverse | C# | Python
+Senior Unity XR Developer with 4.5+ years of experience building enterprise VR, AR, and Mixed Reality applications.
 
-I'm a Unity developer with **4.5+ years of experience** building immersive XR applications, gameplay systems, and enterprise simulation solutions.
+I'm currently transitioning into AI/ML with a focus on Computer Vision, PyTorch, and Generative AI while combining these technologies with Unity XR, NVIDIA Omniverse, and Digital Twins.
 
-My work focuses on creating scalable, maintainable, and high-performance real-time 3D applications using Unity and C#. Recently, I've been expanding my expertise into **OpenUSD** and **NVIDIA Omniverse** to build digital twin workflows and industrial visualization tools.
+## 🚀 Areas of Expertise
 
----
-
-## 🚀 What I'm Working On
-
-- 🏭 OpenUSD Development
-- ⚙️ NVIDIA Omniverse Kit Extensions
-- 🎮 Unity Gameplay Systems
-- 🥽 XR Applications (AR / VR / MR)
-- 🧩 Clean Architecture & Design Patterns
-- ⚡ Performance Optimization
-- 🐍 Python for Omniverse
-
----
-
-## 🛠 Tech Stack
-
-### Languages
-
-- C#
-- Python
-- C++
-
-### Game & XR
-
-- Unity
-- XR Interaction Toolkit
-- AR Foundation
-- OpenXR
-- Photon Fusion
-- UI Toolkit
-
-### OpenUSD & Digital Twins
-
-- OpenUSD
+- Unity 3D & C#
+- Computer Vision
+- PyTorch
+- YOLO
+- Unity Sentis
+- ONNX
+- Mixed Reality (Meta Quest)
+- Bluetooth Low Energy (BLE)
+- Ollama
+- Google Text-to-Speech
 - NVIDIA Omniverse
-- Omniverse Kit
-- USD Python API
-
-### Tools
-
-- Git
-- GitHub
-- Visual Studio
-- JetBrains Rider
-
----
+- OpenUSD
 
 ## 📌 Featured Projects
 
-### 🎰 Unity Slot Machine
-
-A production-style slot machine architecture featuring:
-
-- Event-driven architecture
-- Finite State Machine
-- ScriptableObjects
-- Weighted RNG
-- Payline evaluation
-- Wild symbol mechanics
-- Clean architecture
-
----
-
-### 🏭 OpenUSD Factory
-
-Learning project demonstrating:
-
-- USD Stages
-- References
-- Payloads
-- Variants
-- Layers
-- Custom Attributes
-- Python Automation
-
----
-
-### 🥽 XR Training Applications
-
-Enterprise XR solutions for:
-
-- Fire Safety Training
-- Industrial Simulations
-- Interactive Learning
-- Mixed Reality Experiences
-
----
+- 🔥 FireSafeX MR-IoT
+- 🦺 PPE Detection AR using PyTorch + Unity Sentis
+- 🏭 Warehouse VR Training
+- 🤖 Omniverse Digital Twin (In Progress)
 
 ## 🌱 Currently Learning
 
-- Advanced OpenUSD
-- NVIDIA Omniverse Development
-- Digital Twins
-- Performance Optimization
-- Graphics Programming
-- Python Automation
+- Advanced PyTorch
+- Deep Learning
+- ROS2
+- Isaac Sim
+- Computer Vision
 
----
+## 📫 Contact
 
-## 🎯 Career Interests
-
-- Gameplay Programming
-- XR Development
-- OpenUSD
-- NVIDIA Omniverse
-- Digital Twins
-- Real-Time 3D
-- Simulation Systems
-
----
-
-## 📫 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/jovinfinny/
-- 📧 Email: jovinfy@gmail.com
-
----
-
-⭐ Thanks for visiting my profile!
+LinkedIn:https://www.linkedin.com/in/jovinfinny/
+Email: jovinfy@gmail.com
